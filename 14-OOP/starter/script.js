@@ -45,4 +45,6 @@ audi.accelerate()*2;
 audi.brake()*5;
 bmw.accelerate();
 mercedes.brake(2)
-console.log(audi, bmw, mercedes)
+console.log(audi, bmw, mercedes) 
+
+// added new commit message
